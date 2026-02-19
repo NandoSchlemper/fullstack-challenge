@@ -3,11 +3,11 @@
 2. No private routes should be accessible without authentication.
 
 ### Machines (after creating machine)
-3. As a user, I want to change the attributes (name and type) of a machine after creating it so that I can keep the machine information updated.
-4. As a user, I want to delete a machine when it is no longer in use so that it doesn't clutter the system.
+1. As a user, I want to change the attributes (name and type) of a machine after creating it so that I can keep the machine information updated.
+2. As a user, I want to delete a machine when it is no longer in use so that it doesn't clutter the system.
 
 ### Monitoring Points
-1.  As a user, I want to be able to retrieve the number of time-series I've stored in the server.
+1.  As a user, I want to be able to retrieve the number of time-series I've stored in the server. [✅]
 
 
 ### Missing Tests:
